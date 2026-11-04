@@ -26,6 +26,7 @@ public class Triangle03 {
             System.out.println();
             i--;
         }
+        
         sc.close();
     }
 }
