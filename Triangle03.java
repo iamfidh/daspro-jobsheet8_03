@@ -16,5 +16,16 @@ public class Triangle03 {
             System.out.println();
             i++;
         }
+        i = n;
+        while (i > 0) {
+            int j = 0;
+            while (j < i) {
+                System.out.print("*"); 
+                j++;
+            }
+            System.out.println();
+            i--;
+        }
+        sc.close();
     }
 }

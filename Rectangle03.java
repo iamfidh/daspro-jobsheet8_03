@@ -14,7 +14,6 @@ public class Rectangle03 {
             }
             System.out.println();
         }
-
         sc.close();
     }
 }
